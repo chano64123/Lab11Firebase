@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Boards</string>
+    <string name="movie_name_hint">Enter Movie Name</string>
+    <string name="search_movie">Buscar Pelicula</string>
+    <string name="movie_example">movie_example</string>
+    <string name="category_example">A Category Example</string>
+    <string name="instructions">No Movies Available Please Enter your fav movie by clicking + Button</string>
+    <string name="movie_name">Ingrese Nombre de la Película</string>
+    <string name="percentage">0.0 %</string>
+    <string name="upload">Subir</string>
+    <string name="movie_category">Ingrese Categoría de la Película</string>
+    <string name="movie">Movie Name</string>
+    <string name="add_movie">Agregar Película</string>
+    <string name="search_movie_here">Buscar película</string>
+    <string name="delete">Eliminar</string>
+</resources>
